@@ -1,6 +1,6 @@
 # Hi, I'm Vathsal 👋  
 
-I'm a Computer Science student who loves building meaningful software, exploring Machine Learning, and understanding the philosophy behind systems — both human and digital.
+I'm a 3rd year Computer Science student who loves building meaningful software, exploring Machine Learning, and understanding the philosophy behind systems.
 
 ---
 
