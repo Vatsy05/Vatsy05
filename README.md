@@ -12,7 +12,7 @@ I'm a Computer Science student who loves building meaningful software, exploring
 ---
 
 ## 🛠 Skills
-- **Languages:** Java, Python, C  
+- **Languages:** Java, Python, C , C++
 - **Development:** MongoDB, Git, GitHub  
 - **Machine Learning:** TensorFlow, CNNs, NLP  
 - **Tools:** VS Code, Linux  
