@@ -41,13 +41,5 @@ I'm a Computer Science student who loves building meaningful software, exploring
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsy05&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 ## 🤍 Let’s Connect
 If you love technology, philosophy, or building things from scratch — we’ll get along just fine.
